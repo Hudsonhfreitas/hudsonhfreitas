@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hudson Henrique de Freitas</h1>
 
-<!--
-**Hudsonhfreitas/hudsonhfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Apaixonado por desenvolvimento Front End.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓  Engenheiro de Computação
+
+🏆  Meus conhecimentos: CSS, HTML, SASS, Javascript, Styled Components, React JS, TypeScript
+
+💻  Estou me aprimorando em: React Js, Next.js e TypeScript
+
+
+<strong>Como me encontrar:</strong>
+
+LinkedIn: https://www.linkedin.com/in/hudsonhf/	
+
+Email: hudson223@gmail.com
+
+
