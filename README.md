@@ -3,7 +3,7 @@
 <h3>Apaixonado por desenvolvimento Front End.</h3>
 
 
-🎓  Engenheiro de Computação
+🎓  Engenheiro de Computação / Desenvolvedor Front End
 
 🏆  Meus conhecimentos: CSS, HTML, SASS, Javascript, Styled Components, React JS, TypeScript
 
