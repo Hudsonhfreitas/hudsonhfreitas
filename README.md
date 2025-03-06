@@ -5,9 +5,7 @@
 
 🎓  Engenheiro de Computação / Desenvolvedor Front End
 
-🏆  Meus conhecimentos: CSS, HTML, SASS, Javascript, Styled Components, React JS, TypeScript
-
-💻  Estou me aprimorando em: React Js, Next.js e TypeScript
+🏆  Meus conhecimentos: CSS, HTML, SASS, Javascript, Styled Components, React JS, TypeScript, VTEX, GraphQL
 
 
 <strong>Como me encontrar:</strong>
